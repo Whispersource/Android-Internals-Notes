@@ -13,3 +13,4 @@ Retro update at 2025-11-20T00:14:19: chore: update dependencies
 Retro update at 2025-12-07T14:08:47: docs: add basic documentation
 Retro update at 2025-12-06T18:49:17: fix: minor bug fixes
 Retro update at 2025-12-27T05:56:42: docs: add basic documentation
+Retro update at 2025-12-27T17:17:29: refactor: improve code readability
