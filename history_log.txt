@@ -20,3 +20,4 @@ Retro update at 2026-01-18T17:51:28: feat: add more examples
 Retro update at 2026-03-02T15:19:58: fix: resolve edge case issues
 Retro update at 2026-02-23T15:17:45: fix: minor bug fixes
 Retro update at 2026-02-18T09:47:39: chore: update dependencies
+Retro update at 2026-02-27T04:04:45: docs: add basic documentation
