@@ -4,3 +4,4 @@ Update at 2026-04-08T05:13:24: fix: compatibility fix for Samsung OneUI 6.0
 Update at 2026-03-15T05:13:24: feat: implement PLT hook for libart.so
 Update at 2026-04-02T05:13:24: chore: update build dependencies for NDK r26
 Update at 2026-03-18T05:13:24: feat: implement PLT hook for libart.so
+Update at 2026-03-12T05:13:24: refactor: optimize native memory allocation
