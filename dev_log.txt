@@ -1,1 +1,2 @@
 Update at 2026-04-07T05:13:24: fix: handle null pointer in hook handler
+Update at 2026-03-18T05:13:24: feat: implement PLT hook for libart.so
