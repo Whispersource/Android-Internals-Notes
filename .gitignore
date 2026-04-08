@@ -1,0 +1,21 @@
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+.gradle/
+local.properties
+# Native
+*.so
+*.o
+*.a
+# Python
+__pycache__/
+*.pyc
+# OS
+.DS_Store
